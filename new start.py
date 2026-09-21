@@ -1,0 +1,6 @@
+adjective1 = input("Enter an adjective: ")
+noun1 = input("Enter a noun: ")
+adjective2 = input("Enter another adjective: ")
+noun2 = input("Enter another noun: ")
+verb  = input("Enter a verb: ")
+print(f"on a sudden day me and my k went to the {adjective1} {noun1} and we saw a {adjective2} {noun2}. We decided to {verb} together.")
